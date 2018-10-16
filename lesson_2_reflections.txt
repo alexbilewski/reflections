@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git repository is created where information about commits is stored. If one wants to use version control it it neccesery. 
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Waiting directory is a destination, adres where we working. Staging area is used for managing commits, 
+it stages progres of our uncommited work.
