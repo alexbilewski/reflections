@@ -7,3 +7,8 @@ How is the staging area different from the working directory and the repository?
 
 Waiting directory is a destination, adres where we working. Staging area is used for managing commits, 
 it stages progres of our uncommited work.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add files with one logical change to staging area to comit only them.
