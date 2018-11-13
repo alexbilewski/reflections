@@ -19,3 +19,18 @@ How would branches help?
 
 If I have alternative versions of prgram then its good to keep them sepperate in branches. 
 This way we can trac individual changes to each version.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They show relation of commits to their parents and each other which allow to track progres of changes.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+One branch inharits the changes frome both branches and from that point forward caries them as one branch (exemple master).
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It can save a lot of time on reviewing code. We can focuse only on parts that can cause conflicts.
